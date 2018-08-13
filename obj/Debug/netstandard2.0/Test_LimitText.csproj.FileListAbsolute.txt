@@ -1,0 +1,16 @@
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Test_LimitText.csprojResolveAssemblyReference.cache
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Test_LimitText.csproj.CoreCompileInputs.cache
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Test_LimitText.AssemblyInfoInputs.cache
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Test_LimitText.AssemblyInfo.cs
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Test_LimitText.dll
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/Test_LimitText.pdb
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/bin/Debug/netstandard2.0/Test_LimitText.deps.json
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/bin/Debug/netstandard2.0/Test_LimitText.dll
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/bin/Debug/netstandard2.0/Test_LimitText.pdb
+/Users/lakshmi/Projects/Test_LimitText/Test_LimitText/obj/Debug/netstandard2.0/XamlC.stamp

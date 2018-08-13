@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Test_LimitText.Views.NewItemPage"
+             Title="New Item"
+             xmlns:local="clr-namespace:Test_LimitText.Behaviors"
+            
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save" Clicked="Save_Clicked" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout Spacing="20" Padding="15">
+            <Label Text="Text" FontSize="Medium" />
+            <!--<Entry Text="{Binding Item.Text}" FontSize="Small" />-->
+            <!--<Entry x:Name="Pin1" TextColor="White">
+            <Entry.Behaviors>
+                <local:EntryLengthValidatorBehavior MaxLength="4"/>
+                </Entry.Behaviors>
+            </Entry>
+-->
+            <Label Text="Description" FontSize="Medium" />
+            <Editor Text="{Binding Item.Description}" FontSize="Small" Margin="0" />
+            <Entry x:Name="Pin1" TextColor="Green">
+            <Entry.Behaviors>
+                   
+              <local:EntryBehavior MaxLength="4"/>
+            </Entry.Behaviors>
+            </Entry>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
